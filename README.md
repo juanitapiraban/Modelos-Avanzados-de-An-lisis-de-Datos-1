@@ -2,7 +2,7 @@
 
 *Juanita Piraban Barbosa*
 
-*correo: j.piraban188@uniandes.edu.co
+* correo: j.piraban188@uniandes.edu.co
 
 Maestría en Inteligecia Analítica para la Toma de Decisiones (MIIA)
 
